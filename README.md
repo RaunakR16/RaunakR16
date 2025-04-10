@@ -3,6 +3,7 @@
 <p align="center">
   🚀 Passionate Hardware Innovator | ⚡ Embedded Systems Enthusiast | 🌐 IoT & AI Explorer
 </p>
+
 ---
 
 ### 👨‍💻 About Me
